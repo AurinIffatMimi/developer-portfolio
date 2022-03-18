@@ -1,0 +1,29 @@
+body{
+    margin: 0%;
+}
+.one-third{
+    display: flex;
+    background-image: url(photos/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+.one-third-img img{
+    width: 80%;
+}
+.one-third-first-div{
+    padding-left:5%;
+}
+.font-change{
+font-family: Arial, Helvetica, sans-serif;
+}
+.name-color{
+    color: deeppink;
+}
+.link-button{
+    color:white;
+   background-image:linear-gradient(orange, tomato);
+   text-decoration: none;
+   padding: 5px 20px;
+   border-radius: 5px;
+   
+}
